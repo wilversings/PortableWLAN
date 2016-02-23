@@ -1,0 +1,15 @@
+c:\users\marius\documents\visual studio 2015\Projects\PortableWLAN\PortableWLAN\bin\Debug\PortableWLAN.exe.config
+c:\users\marius\documents\visual studio 2015\Projects\PortableWLAN\PortableWLAN\bin\Debug\PortableWLAN.exe
+c:\users\marius\documents\visual studio 2015\Projects\PortableWLAN\PortableWLAN\bin\Debug\PortableWLAN.pdb
+c:\users\marius\documents\visual studio 2015\Projects\PortableWLAN\PortableWLAN\obj\Debug\PortableWLAN.csprojResolveAssemblyReference.cache
+c:\users\marius\documents\visual studio 2015\Projects\PortableWLAN\PortableWLAN\obj\Debug\PortableWLAN.PortableWLAN.resources
+c:\users\marius\documents\visual studio 2015\Projects\PortableWLAN\PortableWLAN\obj\Debug\PortableWLAN.Properties.Resources.resources
+c:\users\marius\documents\visual studio 2015\Projects\PortableWLAN\PortableWLAN\obj\Debug\PortableWLAN.csproj.GenerateResource.Cache
+c:\users\marius\documents\visual studio 2015\Projects\PortableWLAN\PortableWLAN\obj\Debug\PortableWLAN.exe
+c:\users\marius\documents\visual studio 2015\Projects\PortableWLAN\PortableWLAN\obj\Debug\PortableWLAN.pdb
+C:\Users\Marius\Documents\Visual Studio 2015\Projects\PortableWLAN\PortableWLAN\bin\Debug\en\PortableWLAN.resources.dll
+C:\Users\Marius\Documents\Visual Studio 2015\Projects\PortableWLAN\PortableWLAN\obj\Debug\PortableWLAN.PortableWLAN.en.resources
+C:\Users\Marius\Documents\Visual Studio 2015\Projects\PortableWLAN\PortableWLAN\obj\Debug\en\PortableWLAN.resources.dll
+C:\Users\Marius\Documents\Visual Studio 2015\Projects\PortableWLAN\PortableWLAN\bin\Debug\ro\PortableWLAN.resources.dll
+C:\Users\Marius\Documents\Visual Studio 2015\Projects\PortableWLAN\PortableWLAN\obj\Debug\PortableWLAN.PortableWLAN.ro.resources
+C:\Users\Marius\Documents\Visual Studio 2015\Projects\PortableWLAN\PortableWLAN\obj\Debug\ro\PortableWLAN.resources.dll
